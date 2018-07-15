@@ -42,5 +42,5 @@ var hotel = {
 };
 // console.log('Rooms available: ' + hotel.checkAvailability());
 
-var hotelName = hotel.name; // hotel['name'];
+var hotelName = hotel.name; // hotel
 var roomsFree = hotel.checkAvailability();
